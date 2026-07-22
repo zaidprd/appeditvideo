@@ -1,0 +1,1285 @@
+{
+ "id": "18684ebb-404e-4170-9f9c-0c8b7279f941",
+ "language_model": "assemblyai_default",
+ "acoustic_model": "assemblyai_default",
+ "language_code": "id",
+ "speech_understanding": null,
+ "translated_texts": null,
+ "status": "completed",
+ "audio_url": "https://cdn.assemblyai.com/upload/484ca854dcc9e31c42913fa12e9b3e17ed74977bc475734fc4debe9485564fa5/c7cbbdd1-52c1-4d07-9aaf-9ec39c78ed64",
+ "text": "Headset JBL ini sekarang harganya udah jauh lebih murah, tapi di tahun sekarang masih layak dibeli atau cuman menang nama JBL aja. Ini JBL Web 200 TWS, TWS entry level dari JBL yang fokus di kualitas suara dibanding fitur-fitur mewah. Hal yang paling terasa tentu karakter suara JBL. Bassnya cukup nendang, vokalnya tetap jelas. Enak buat dengerin musik, nonton Youtube sampai podcast. Desainnya juga ringan dan nyaman dipakai dalam waktu lama. Piring ke HP cepat tinggal buka casing langsung terhubung. Baterainya juga cukup awet untuk dipakai aktivitas sehari-hari. tapi ada beberapa kekurangan. TWS ini belum punya Active Noise Cancelling atau ANC, jadi saat dipakai di tempat ramai, suara luar masih cukup terdengar. Selain itu juga belum ada aplikasi untuk mengatur EQ atau fitur kontrol yang lebih lengkap. Kalau kamu cari TWS dengan kualitas suara yang enak dari brand terpercaya, JBL Web 200 TWS masih layak dipertimbangkan. tapi kalau prioritas mu ANC dan fitur lebih lengkap ada pilihan lain di harga yang mirip kalau penasaran harganya sekarang, cek link di keranjang kuning",
+ "words": [
+  {
+   "text": "Headset",
+   "start": 453,
+   "end": 893,
+   "confidence": 0.7919922,
+   "speaker": null
+  },
+  {
+   "text": "JBL",
+   "start": 893,
+   "end": 1393,
+   "confidence": 0.9614258,
+   "speaker": null
+  },
+  {
+   "text": "ini",
+   "start": 1393,
+   "end": 1733,
+   "confidence": 0.80029297,
+   "speaker": null
+  },
+  {
+   "text": "sekarang",
+   "start": 1733,
+   "end": 2373,
+   "confidence": 0.8276367,
+   "speaker": null
+  },
+  {
+   "text": "harganya",
+   "start": 2373,
+   "end": 3093,
+   "confidence": 0.9251302,
+   "speaker": null
+  },
+  {
+   "text": "udah",
+   "start": 3093,
+   "end": 3373,
+   "confidence": 0.42236328,
+   "speaker": null
+  },
+  {
+   "text": "jauh",
+   "start": 3373,
+   "end": 3773,
+   "confidence": 0.97054034,
+   "speaker": null
+  },
+  {
+   "text": "lebih",
+   "start": 3773,
+   "end": 4073,
+   "confidence": 0.78808594,
+   "speaker": null
+  },
+  {
+   "text": "murah,",
+   "start": 4073,
+   "end": 4473,
+   "confidence": 0.684,
+   "speaker": null
+  },
+  {
+   "text": "tapi",
+   "start": 5213,
+   "end": 5373,
+   "confidence": 0.31722388,
+   "speaker": null
+  },
+  {
+   "text": "di",
+   "start": 5373,
+   "end": 6293,
+   "confidence": 0.7548828,
+   "speaker": null
+  },
+  {
+   "text": "tahun",
+   "start": 6293,
+   "end": 6593,
+   "confidence": 0.5522833,
+   "speaker": null
+  },
+  {
+   "text": "sekarang",
+   "start": 6593,
+   "end": 7093,
+   "confidence": 0.84228516,
+   "speaker": null
+  },
+  {
+   "text": "masih",
+   "start": 7093,
+   "end": 7493,
+   "confidence": 0.8623047,
+   "speaker": null
+  },
+  {
+   "text": "layak",
+   "start": 7493,
+   "end": 7873,
+   "confidence": 0.9345703,
+   "speaker": null
+  },
+  {
+   "text": "dibeli",
+   "start": 7873,
+   "end": 8353,
+   "confidence": 0.90649414,
+   "speaker": null
+  },
+  {
+   "text": "atau",
+   "start": 8353,
+   "end": 8773,
+   "confidence": 0.70654297,
+   "speaker": null
+  },
+  {
+   "text": "cuman",
+   "start": 8773,
+   "end": 9213,
+   "confidence": 0.62390137,
+   "speaker": null
+  },
+  {
+   "text": "menang",
+   "start": 9213,
+   "end": 9573,
+   "confidence": 0.90844727,
+   "speaker": null
+  },
+  {
+   "text": "nama",
+   "start": 9573,
+   "end": 9893,
+   "confidence": 0.89404297,
+   "speaker": null
+  },
+  {
+   "text": "JBL",
+   "start": 9893,
+   "end": 10313,
+   "confidence": 0.96533203,
+   "speaker": null
+  },
+  {
+   "text": "aja.",
+   "start": 10313,
+   "end": 10613,
+   "confidence": 0.579,
+   "speaker": null
+  },
+  {
+   "text": "Ini",
+   "start": 11573,
+   "end": 12093,
+   "confidence": 0.7739258,
+   "speaker": null
+  },
+  {
+   "text": "JBL",
+   "start": 12093,
+   "end": 12713,
+   "confidence": 0.98535156,
+   "speaker": null
+  },
+  {
+   "text": "Web",
+   "start": 12713,
+   "end": 13033,
+   "confidence": 0.31762695,
+   "speaker": null
+  },
+  {
+   "text": "200",
+   "start": 13033,
+   "end": 13673,
+   "confidence": 0.79052734,
+   "speaker": null
+  },
+  {
+   "text": "TWS,",
+   "start": 13673,
+   "end": 14453,
+   "confidence": 0.787,
+   "speaker": null
+  },
+  {
+   "text": "TWS",
+   "start": 14593,
+   "end": 15153,
+   "confidence": 0.939209,
+   "speaker": null
+  },
+  {
+   "text": "entry",
+   "start": 15153,
+   "end": 15573,
+   "confidence": 0.5263672,
+   "speaker": null
+  },
+  {
+   "text": "level",
+   "start": 15573,
+   "end": 16053,
+   "confidence": 0.5366211,
+   "speaker": null
+  },
+  {
+   "text": "dari",
+   "start": 16053,
+   "end": 16433,
+   "confidence": 0.8300781,
+   "speaker": null
+  },
+  {
+   "text": "JBL",
+   "start": 16433,
+   "end": 17173,
+   "confidence": 0.9824219,
+   "speaker": null
+  },
+  {
+   "text": "yang",
+   "start": 17173,
+   "end": 17493,
+   "confidence": 0.76464844,
+   "speaker": null
+  },
+  {
+   "text": "fokus",
+   "start": 17493,
+   "end": 17933,
+   "confidence": 0.92041016,
+   "speaker": null
+  },
+  {
+   "text": "di",
+   "start": 17933,
+   "end": 18173,
+   "confidence": 0.84472656,
+   "speaker": null
+  },
+  {
+   "text": "kualitas",
+   "start": 18173,
+   "end": 18673,
+   "confidence": 0.95963544,
+   "speaker": null
+  },
+  {
+   "text": "suara",
+   "start": 18673,
+   "end": 19133,
+   "confidence": 0.9277344,
+   "speaker": null
+  },
+  {
+   "text": "dibanding",
+   "start": 19133,
+   "end": 19653,
+   "confidence": 0.90283203,
+   "speaker": null
+  },
+  {
+   "text": "fitur-fitur",
+   "start": 19653,
+   "end": 20573,
+   "confidence": 0.884,
+   "speaker": null
+  },
+  {
+   "text": "mewah.",
+   "start": 20573,
+   "end": 20913,
+   "confidence": 0.959,
+   "speaker": null
+  },
+  {
+   "text": "Hal",
+   "start": 21817,
+   "end": 22077,
+   "confidence": 0.79785156,
+   "speaker": null
+  },
+  {
+   "text": "yang",
+   "start": 22077,
+   "end": 22257,
+   "confidence": 0.86083984,
+   "speaker": null
+  },
+  {
+   "text": "paling",
+   "start": 22257,
+   "end": 22577,
+   "confidence": 0.83154297,
+   "speaker": null
+  },
+  {
+   "text": "terasa",
+   "start": 22577,
+   "end": 23017,
+   "confidence": 0.5740331,
+   "speaker": null
+  },
+  {
+   "text": "tentu",
+   "start": 23017,
+   "end": 23477,
+   "confidence": 0.51278305,
+   "speaker": null
+  },
+  {
+   "text": "karakter",
+   "start": 23477,
+   "end": 23977,
+   "confidence": 0.8798828,
+   "speaker": null
+  },
+  {
+   "text": "suara",
+   "start": 23977,
+   "end": 24417,
+   "confidence": 0.92993164,
+   "speaker": null
+  },
+  {
+   "text": "JBL.",
+   "start": 24417,
+   "end": 25037,
+   "confidence": 0.639,
+   "speaker": null
+  },
+  {
+   "text": "Bassnya",
+   "start": 25437,
+   "end": 26097,
+   "confidence": 0.5402832,
+   "speaker": null
+  },
+  {
+   "text": "cukup",
+   "start": 26097,
+   "end": 26477,
+   "confidence": 0.87158203,
+   "speaker": null
+  },
+  {
+   "text": "nendang,",
+   "start": 26477,
+   "end": 26957,
+   "confidence": 0.847,
+   "speaker": null
+  },
+  {
+   "text": "vokalnya",
+   "start": 27237,
+   "end": 27717,
+   "confidence": 0.87841797,
+   "speaker": null
+  },
+  {
+   "text": "tetap",
+   "start": 27717,
+   "end": 28197,
+   "confidence": 0.5121474,
+   "speaker": null
+  },
+  {
+   "text": "jelas.",
+   "start": 28197,
+   "end": 28657,
+   "confidence": 0.788,
+   "speaker": null
+  },
+  {
+   "text": "Enak",
+   "start": 29137,
+   "end": 29477,
+   "confidence": 0.9248047,
+   "speaker": null
+  },
+  {
+   "text": "buat",
+   "start": 29477,
+   "end": 29757,
+   "confidence": 0.7446289,
+   "speaker": null
+  },
+  {
+   "text": "dengerin",
+   "start": 29757,
+   "end": 30217,
+   "confidence": 0.9270833,
+   "speaker": null
+  },
+  {
+   "text": "musik,",
+   "start": 30217,
+   "end": 30617,
+   "confidence": 0.94,
+   "speaker": null
+  },
+  {
+   "text": "nonton",
+   "start": 30777,
+   "end": 31057,
+   "confidence": 0.91918945,
+   "speaker": null
+  },
+  {
+   "text": "Youtube",
+   "start": 31057,
+   "end": 31497,
+   "confidence": 0.28686523,
+   "speaker": null
+  },
+  {
+   "text": "sampai",
+   "start": 31497,
+   "end": 32017,
+   "confidence": 0.29077148,
+   "speaker": null
+  },
+  {
+   "text": "podcast.",
+   "start": 32017,
+   "end": 32657,
+   "confidence": 0.698,
+   "speaker": null
+  },
+  {
+   "text": "Desainnya",
+   "start": 33617,
+   "end": 34137,
+   "confidence": 0.8229167,
+   "speaker": null
+  },
+  {
+   "text": "juga",
+   "start": 34137,
+   "end": 34397,
+   "confidence": 0.82373047,
+   "speaker": null
+  },
+  {
+   "text": "ringan",
+   "start": 34397,
+   "end": 34917,
+   "confidence": 0.9428711,
+   "speaker": null
+  },
+  {
+   "text": "dan",
+   "start": 34917,
+   "end": 35297,
+   "confidence": 0.8725586,
+   "speaker": null
+  },
+  {
+   "text": "nyaman",
+   "start": 35297,
+   "end": 35697,
+   "confidence": 0.93481445,
+   "speaker": null
+  },
+  {
+   "text": "dipakai",
+   "start": 35697,
+   "end": 36497,
+   "confidence": 0.86865234,
+   "speaker": null
+  },
+  {
+   "text": "dalam",
+   "start": 36497,
+   "end": 36857,
+   "confidence": 0.7792969,
+   "speaker": null
+  },
+  {
+   "text": "waktu",
+   "start": 36857,
+   "end": 37337,
+   "confidence": 0.8408203,
+   "speaker": null
+  },
+  {
+   "text": "lama.",
+   "start": 37337,
+   "end": 37817,
+   "confidence": 0.708,
+   "speaker": null
+  },
+  {
+   "text": "Piring",
+   "start": 38477,
+   "end": 38857,
+   "confidence": 0.7783203,
+   "speaker": null
+  },
+  {
+   "text": "ke",
+   "start": 38857,
+   "end": 39237,
+   "confidence": 0.8676758,
+   "speaker": null
+  },
+  {
+   "text": "HP",
+   "start": 39237,
+   "end": 39717,
+   "confidence": 0.49902344,
+   "speaker": null
+  },
+  {
+   "text": "cepat",
+   "start": 39717,
+   "end": 40277,
+   "confidence": 0.82543945,
+   "speaker": null
+  },
+  {
+   "text": "tinggal",
+   "start": 40277,
+   "end": 40897,
+   "confidence": 0.5207713,
+   "speaker": null
+  },
+  {
+   "text": "buka",
+   "start": 40897,
+   "end": 41417,
+   "confidence": 0.9086914,
+   "speaker": null
+  },
+  {
+   "text": "casing",
+   "start": 41417,
+   "end": 41977,
+   "confidence": 0.8803711,
+   "speaker": null
+  },
+  {
+   "text": "langsung",
+   "start": 41977,
+   "end": 42597,
+   "confidence": 0.92333984,
+   "speaker": null
+  },
+  {
+   "text": "terhubung.",
+   "start": 42597,
+   "end": 43417,
+   "confidence": 0.859,
+   "speaker": null
+  },
+  {
+   "text": "Baterainya",
+   "start": 44317,
+   "end": 44837,
+   "confidence": 0.82543945,
+   "speaker": null
+  },
+  {
+   "text": "juga",
+   "start": 44837,
+   "end": 45117,
+   "confidence": 0.8491211,
+   "speaker": null
+  },
+  {
+   "text": "cukup",
+   "start": 45117,
+   "end": 45517,
+   "confidence": 0.9543457,
+   "speaker": null
+  },
+  {
+   "text": "awet",
+   "start": 45517,
+   "end": 45957,
+   "confidence": 0.9008789,
+   "speaker": null
+  },
+  {
+   "text": "untuk",
+   "start": 45957,
+   "end": 46677,
+   "confidence": 0.67626953,
+   "speaker": null
+  },
+  {
+   "text": "dipakai",
+   "start": 46677,
+   "end": 47177,
+   "confidence": 0.9192708,
+   "speaker": null
+  },
+  {
+   "text": "aktivitas",
+   "start": 47177,
+   "end": 47857,
+   "confidence": 0.83935547,
+   "speaker": null
+  },
+  {
+   "text": "sehari-hari.",
+   "start": 47857,
+   "end": 48457,
+   "confidence": 0.88,
+   "speaker": null
+  },
+  {
+   "text": "tapi",
+   "start": 49238,
+   "end": 49538,
+   "confidence": 0.2781588,
+   "speaker": null
+  },
+  {
+   "text": "ada",
+   "start": 49538,
+   "end": 49818,
+   "confidence": 0.7939453,
+   "speaker": null
+  },
+  {
+   "text": "beberapa",
+   "start": 49818,
+   "end": 50338,
+   "confidence": 0.9289551,
+   "speaker": null
+  },
+  {
+   "text": "kekurangan.",
+   "start": 50338,
+   "end": 51058,
+   "confidence": 0.695,
+   "speaker": null
+  },
+  {
+   "text": "TWS",
+   "start": 51738,
+   "end": 52118,
+   "confidence": 0.9069824,
+   "speaker": null
+  },
+  {
+   "text": "ini",
+   "start": 52118,
+   "end": 52538,
+   "confidence": 0.7216797,
+   "speaker": null
+  },
+  {
+   "text": "belum",
+   "start": 52538,
+   "end": 53158,
+   "confidence": 0.73291016,
+   "speaker": null
+  },
+  {
+   "text": "punya",
+   "start": 53158,
+   "end": 53538,
+   "confidence": 0.77246094,
+   "speaker": null
+  },
+  {
+   "text": "Active",
+   "start": 53538,
+   "end": 53938,
+   "confidence": 0.7006836,
+   "speaker": null
+  },
+  {
+   "text": "Noise",
+   "start": 53938,
+   "end": 54298,
+   "confidence": 0.66308594,
+   "speaker": null
+  },
+  {
+   "text": "Cancelling",
+   "start": 54298,
+   "end": 55038,
+   "confidence": 0.8367513,
+   "speaker": null
+  },
+  {
+   "text": "atau",
+   "start": 55038,
+   "end": 55578,
+   "confidence": 0.6254883,
+   "speaker": null
+  },
+  {
+   "text": "ANC,",
+   "start": 55578,
+   "end": 56398,
+   "confidence": 0.715,
+   "speaker": null
+  },
+  {
+   "text": "jadi",
+   "start": 56598,
+   "end": 56798,
+   "confidence": 0.9121094,
+   "speaker": null
+  },
+  {
+   "text": "saat",
+   "start": 56798,
+   "end": 57158,
+   "confidence": 0.76904297,
+   "speaker": null
+  },
+  {
+   "text": "dipakai",
+   "start": 57158,
+   "end": 57738,
+   "confidence": 0.9274089,
+   "speaker": null
+  },
+  {
+   "text": "di",
+   "start": 57738,
+   "end": 57918,
+   "confidence": 0.85546875,
+   "speaker": null
+  },
+  {
+   "text": "tempat",
+   "start": 57918,
+   "end": 58298,
+   "confidence": 0.39021048,
+   "speaker": null
+  },
+  {
+   "text": "ramai,",
+   "start": 58298,
+   "end": 58858,
+   "confidence": 0.802,
+   "speaker": null
+  },
+  {
+   "text": "suara",
+   "start": 59418,
+   "end": 59698,
+   "confidence": 0.9309082,
+   "speaker": null
+  },
+  {
+   "text": "luar",
+   "start": 59698,
+   "end": 59998,
+   "confidence": 0.89208984,
+   "speaker": null
+  },
+  {
+   "text": "masih",
+   "start": 59998,
+   "end": 60318,
+   "confidence": 0.86572266,
+   "speaker": null
+  },
+  {
+   "text": "cukup",
+   "start": 60318,
+   "end": 60758,
+   "confidence": 0.93066406,
+   "speaker": null
+  },
+  {
+   "text": "terdengar.",
+   "start": 60758,
+   "end": 61478,
+   "confidence": 0.836,
+   "speaker": null
+  },
+  {
+   "text": "Selain",
+   "start": 62618,
+   "end": 62958,
+   "confidence": 0.91186523,
+   "speaker": null
+  },
+  {
+   "text": "itu",
+   "start": 62958,
+   "end": 63218,
+   "confidence": 0.8540039,
+   "speaker": null
+  },
+  {
+   "text": "juga",
+   "start": 63218,
+   "end": 63618,
+   "confidence": 0.74609375,
+   "speaker": null
+  },
+  {
+   "text": "belum",
+   "start": 63618,
+   "end": 63878,
+   "confidence": 0.62158203,
+   "speaker": null
+  },
+  {
+   "text": "ada",
+   "start": 63878,
+   "end": 64238,
+   "confidence": 0.86279297,
+   "speaker": null
+  },
+  {
+   "text": "aplikasi",
+   "start": 64238,
+   "end": 65038,
+   "confidence": 0.95751953,
+   "speaker": null
+  },
+  {
+   "text": "untuk",
+   "start": 65038,
+   "end": 65438,
+   "confidence": 0.7421875,
+   "speaker": null
+  },
+  {
+   "text": "mengatur",
+   "start": 65438,
+   "end": 66018,
+   "confidence": 0.857666,
+   "speaker": null
+  },
+  {
+   "text": "EQ",
+   "start": 66018,
+   "end": 66398,
+   "confidence": 0.7416992,
+   "speaker": null
+  },
+  {
+   "text": "atau",
+   "start": 66398,
+   "end": 66858,
+   "confidence": 0.4128418,
+   "speaker": null
+  },
+  {
+   "text": "fitur",
+   "start": 66858,
+   "end": 67418,
+   "confidence": 0.94555664,
+   "speaker": null
+  },
+  {
+   "text": "kontrol",
+   "start": 67418,
+   "end": 67978,
+   "confidence": 0.82958984,
+   "speaker": null
+  },
+  {
+   "text": "yang",
+   "start": 67978,
+   "end": 68198,
+   "confidence": 0.87353516,
+   "speaker": null
+  },
+  {
+   "text": "lebih",
+   "start": 68198,
+   "end": 68458,
+   "confidence": 0.85595703,
+   "speaker": null
+  },
+  {
+   "text": "lengkap.",
+   "start": 68458,
+   "end": 69158,
+   "confidence": 0.959,
+   "speaker": null
+  },
+  {
+   "text": "Kalau",
+   "start": 69778,
+   "end": 69958,
+   "confidence": 0.76660156,
+   "speaker": null
+  },
+  {
+   "text": "kamu",
+   "start": 69958,
+   "end": 70318,
+   "confidence": 0.84472656,
+   "speaker": null
+  },
+  {
+   "text": "cari",
+   "start": 70318,
+   "end": 70638,
+   "confidence": 0.892334,
+   "speaker": null
+  },
+  {
+   "text": "TWS",
+   "start": 70638,
+   "end": 71118,
+   "confidence": 0.94555664,
+   "speaker": null
+  },
+  {
+   "text": "dengan",
+   "start": 71118,
+   "end": 71478,
+   "confidence": 0.8833008,
+   "speaker": null
+  },
+  {
+   "text": "kualitas",
+   "start": 71478,
+   "end": 72118,
+   "confidence": 0.9703776,
+   "speaker": null
+  },
+  {
+   "text": "suara",
+   "start": 72118,
+   "end": 72478,
+   "confidence": 0.9238281,
+   "speaker": null
+  },
+  {
+   "text": "yang",
+   "start": 72478,
+   "end": 72678,
+   "confidence": 0.8232422,
+   "speaker": null
+  },
+  {
+   "text": "enak",
+   "start": 72678,
+   "end": 73038,
+   "confidence": 0.9226074,
+   "speaker": null
+  },
+  {
+   "text": "dari",
+   "start": 73038,
+   "end": 73318,
+   "confidence": 0.8330078,
+   "speaker": null
+  },
+  {
+   "text": "brand",
+   "start": 73318,
+   "end": 73658,
+   "confidence": 0.7285156,
+   "speaker": null
+  },
+  {
+   "text": "terpercaya,",
+   "start": 73658,
+   "end": 74438,
+   "confidence": 0.813,
+   "speaker": null
+  },
+  {
+   "text": "JBL",
+   "start": 74998,
+   "end": 75438,
+   "confidence": 0.9519043,
+   "speaker": null
+  },
+  {
+   "text": "Web",
+   "start": 75438,
+   "end": 75758,
+   "confidence": 0.55371094,
+   "speaker": null
+  },
+  {
+   "text": "200",
+   "start": 75758,
+   "end": 76258,
+   "confidence": 0.4963379,
+   "speaker": null
+  },
+  {
+   "text": "TWS",
+   "start": 76258,
+   "end": 76818,
+   "confidence": 0.94018555,
+   "speaker": null
+  },
+  {
+   "text": "masih",
+   "start": 76818,
+   "end": 77158,
+   "confidence": 0.8613281,
+   "speaker": null
+  },
+  {
+   "text": "layak",
+   "start": 77158,
+   "end": 77478,
+   "confidence": 0.94189453,
+   "speaker": null
+  },
+  {
+   "text": "dipertimbangkan.",
+   "start": 77478,
+   "end": 78478,
+   "confidence": 0.958,
+   "speaker": null
+  },
+  {
+   "text": "tapi",
+   "start": 79951,
+   "end": 80171,
+   "confidence": 0.26122412,
+   "speaker": null
+  },
+  {
+   "text": "kalau",
+   "start": 80171,
+   "end": 80431,
+   "confidence": 0.6201172,
+   "speaker": null
+  },
+  {
+   "text": "prioritas",
+   "start": 80431,
+   "end": 81091,
+   "confidence": 0.8625488,
+   "speaker": null
+  },
+  {
+   "text": "mu",
+   "start": 81091,
+   "end": 81331,
+   "confidence": 0.2668457,
+   "speaker": null
+  },
+  {
+   "text": "ANC",
+   "start": 81331,
+   "end": 82011,
+   "confidence": 0.7915039,
+   "speaker": null
+  },
+  {
+   "text": "dan",
+   "start": 82011,
+   "end": 82331,
+   "confidence": 0.7949219,
+   "speaker": null
+  },
+  {
+   "text": "fitur",
+   "start": 82331,
+   "end": 82851,
+   "confidence": 0.796875,
+   "speaker": null
+  },
+  {
+   "text": "lebih",
+   "start": 82851,
+   "end": 83131,
+   "confidence": 0.7949219,
+   "speaker": null
+  },
+  {
+   "text": "lengkap",
+   "start": 83131,
+   "end": 83611,
+   "confidence": 0.9580078,
+   "speaker": null
+  },
+  {
+   "text": "ada",
+   "start": 83611,
+   "end": 83871,
+   "confidence": 0.5488281,
+   "speaker": null
+  },
+  {
+   "text": "pilihan",
+   "start": 83871,
+   "end": 84431,
+   "confidence": 0.9373372,
+   "speaker": null
+  },
+  {
+   "text": "lain",
+   "start": 84431,
+   "end": 84751,
+   "confidence": 0.7836914,
+   "speaker": null
+  },
+  {
+   "text": "di",
+   "start": 84751,
+   "end": 84951,
+   "confidence": 0.88134766,
+   "speaker": null
+  },
+  {
+   "text": "harga",
+   "start": 84951,
+   "end": 85251,
+   "confidence": 0.90893555,
+   "speaker": null
+  },
+  {
+   "text": "yang",
+   "start": 85251,
+   "end": 85471,
+   "confidence": 0.89501953,
+   "speaker": null
+  },
+  {
+   "text": "mirip",
+   "start": 85471,
+   "end": 86031,
+   "confidence": 0.9160156,
+   "speaker": null
+  },
+  {
+   "text": "kalau",
+   "start": 86031,
+   "end": 86671,
+   "confidence": 0.4892578,
+   "speaker": null
+  },
+  {
+   "text": "penasaran",
+   "start": 86671,
+   "end": 87191,
+   "confidence": 0.9589844,
+   "speaker": null
+  },
+  {
+   "text": "harganya",
+   "start": 87191,
+   "end": 87651,
+   "confidence": 0.9298503,
+   "speaker": null
+  },
+  {
+   "text": "sekarang,",
+   "start": 87651,
+   "end": 88151,
+   "confidence": 0.646,
+   "speaker": null
+  },
+  {
+   "text": "cek",
+   "start": 88371,
+   "end": 88551,
+   "confidence": 0.8444824,
+   "speaker": null
+  },
+  {
+   "text": "link",
+   "start": 88551,
+   "end": 88911,
+   "confidence": 0.91064453,
+   "speaker": null
+  },
+  {
+   "text": "di",
+   "start": 88911,
+   "end": 89151,
+   "confidence": 0.9003906,
+   "speaker": null
+  },
+  {
+   "text": "keranjang",
+   "start": 89151,
+   "end": 89571,
+   "confidence": 0.90283203,
+   "speaker": null
+  },
+  {
+   "text": "kuning",
+   "start": 89571,
+   "end": 89991,
+   "confidence": 0.9448242,
+   "speaker": null
+  }
+ ],
+ "utterances": null,
+ "confidence": 0.7929649,
+ "audio_duration": 91,
+ "punctuate": true,
+ "format_text": true,
+ "webhook_url": null,
+ "webhook_status_code": null,
+ "webhook_auth": false,
+ "webhook_auth_header_name": null,
+ "speed_boost": false,
+ "auto_highlights_result": null,
+ "auto_highlights": false,
+ "audio_start_from": null,
+ "audio_end_at": null,
+ "word_boost": [],
+ "boost_param": null,
+ "prompt": "Verbatim transcription of a solo YouTube tutorial recording with multiple takes. Transcribe exactly as spoken: keep false starts, repeated words, self-corrections, and filler words (um, uh) \u2014 do not clean them up.",
+ "keyterms_prompt": [],
+ "filter_profanity": false,
+ "redact_pii": false,
+ "redact_pii_audio": false,
+ "redact_pii_audio_quality": null,
+ "redact_pii_audio_options": null,
+ "redact_pii_policies": null,
+ "redact_pii_sub": null,
+ "redact_static_entities": null,
+ "speaker_labels": false,
+ "speaker_options": null,
+ "content_safety": false,
+ "iab_categories": false,
+ "content_safety_labels": {
+  "status": "unavailable",
+  "results": [],
+  "summary": {}
+ },
+ "iab_categories_result": {
+  "status": "unavailable",
+  "results": [],
+  "summary": {}
+ },
+ "language_detection": true,
+ "language_detection_options": null,
+ "language_detection_results": null,
+ "language_confidence_threshold": null,
+ "language_confidence": 0.998,
+ "custom_spelling": null,
+ "throttled": false,
+ "auto_chapters": false,
+ "summarization": false,
+ "summary_type": null,
+ "summary_model": null,
+ "custom_topics": false,
+ "topics": [],
+ "speech_threshold": null,
+ "speech_model": null,
+ "speech_models": [
+  "universal-3-5-pro",
+  "universal-2"
+ ],
+ "speech_model_used": "universal-2",
+ "temperature": null,
+ "remove_audio_tags": "all",
+ "chapters": null,
+ "disfluencies": true,
+ "entity_detection": false,
+ "sentiment_analysis": false,
+ "sentiment_analysis_results": null,
+ "entities": null,
+ "speakers_expected": null,
+ "summary": null,
+ "custom_topics_results": null,
+ "is_deleted": null,
+ "multichannel": null,
+ "project_id": 1929660,
+ "token_id": 1960073
+}

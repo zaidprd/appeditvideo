@@ -1,0 +1,70 @@
+{
+  "master": "videos/jbl-wave200tws-1/output/master-audio.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    {
+      "id": "HookQuestion",
+      "type": "cutaway",
+      "master_in_s": 0.00,
+      "master_out_s": 10.50,
+      "cue": "Hook pertanyaan — 'Headset JBL... masih layak di 2024?'"
+    },
+    {
+      "id": "ProductSpec",
+      "type": "cutaway",
+      "master_in_s": 10.50,
+      "master_out_s": 21.50,
+      "cue": "Product intro — 'Ini JBL Wave 200TWS... fokus kualitas suara'"
+    },
+    {
+      "id": "ProsBass",
+      "type": "cutaway",
+      "master_in_s": 21.50,
+      "master_out_s": 33.00,
+      "cue": "PRO #1 — Bass nendang, vokal jelas"
+    },
+    {
+      "id": "ProsDesign",
+      "type": "cutaway",
+      "master_in_s": 33.00,
+      "master_out_s": 44.00,
+      "cue": "PRO #2 — Ringan, pairing cepat"
+    },
+    {
+      "id": "ProsBattery",
+      "type": "cutaway",
+      "master_in_s": 44.00,
+      "master_out_s": 49.50,
+      "cue": "PRO #3 — Baterai awet"
+    },
+    {
+      "id": "ConsNoANC",
+      "type": "cutaway",
+      "master_in_s": 49.50,
+      "master_out_s": 62.00,
+      "cue": "CON #1 — Tanpa ANC"
+    },
+    {
+      "id": "ConsNoApp",
+      "type": "cutaway",
+      "master_in_s": 62.00,
+      "master_out_s": 69.50,
+      "cue": "CON #2 — Tanpa aplikasi EQ"
+    },
+    {
+      "id": "VerdictCard",
+      "type": "cutaway",
+      "master_in_s": 69.50,
+      "master_out_s": 89.57,
+      "cue": "Verdict + CTA — 'Cek link di keranjang kuning'"
+    }
+  ],
+  "preview": {
+    "end_s": 89.57,
+    "out": "videos/jbl-wave200tws-1/output/jbl-wave200tws-1-preview.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}

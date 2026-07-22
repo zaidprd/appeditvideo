@@ -24,6 +24,10 @@ videos/*/*.mp4
 videos/*/*.MOV
 videos/*/*.mov
 videos/*/reference/
+# Raw audio recordings / voice memos (NOT pipeline input — only transcript matters)
+videos/*/raw/
+# Pre-bake master composite (regenerable)
+videos/*/output/master-audio.mp4
 
 # heavy / regenerable per-video artifacts (rebuilt by the pipeline)
 videos/*/work/audio/
@@ -67,3 +71,12 @@ videos/*/work/editor/*.log
 .idea/
 .DS_Store
 Thumbs.db
+
+# Remotion build caches
+.cache/
+.remotion/
+
+# Local scratch recordings / AI-generated voice notes (NOT pipeline input)
+MiniMax_*.mp3
+GPT 5.5*.mp3
+GPT 5.5*.m4a

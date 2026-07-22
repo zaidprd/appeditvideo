@@ -108,7 +108,7 @@ def main():
         cut = next((c for c in cutaways if c["in"] <= a + 1e-6 and a < c["out"] - 1e-6), None)
         ov = next((o for o in overlays if o["in"] <= a + 1e-6 and b <= o["out"] + 1e-6), None)
 
-        common_vf = f"scale={W}:{H}:force_original_aspect_ratio=disable,fps={FPS},tpad=stop_mode=clone:stop_duration=1,format=yuv420p"
+        common_vf = f"scale={W}:{H}:force_original_aspect_ratio=disable,fps={FPS},tpad=stop_mode=clone:stop_duration=30,format=yuv420p"
 
         if cut:
             off = a - cut["in"]
@@ -122,7 +122,7 @@ def main():
             fc = (f"[0:v]scale={W}:{H},fps={FPS},format=yuv420p[bg];"
                   f"[1:v]scale={W}:{H},fps={FPS}[ov];"
                   f"[bg][ov]overlay=0:0:format=auto,"
-                  f"tpad=stop_mode=clone:stop_duration=1,format=yuv420p[v]")
+                  f"tpad=stop_mode=clone:stop_duration=30,format=yuv420p[v]")
             cmd = ["ffmpeg", "-y", "-ss", f"{a:.4f}", "-i", master,
                    "-ss", f"{off:.4f}", "-i", ov["file"],
                    "-filter_complex", fc, "-map", "[v]", "-frames:v", str(n), "-an",
