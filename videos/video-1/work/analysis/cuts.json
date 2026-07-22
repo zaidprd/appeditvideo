@@ -1,0 +1,66 @@
+{
+  "project": "video-1",
+  "clip_order": ["Untitled"],
+  "clips": [
+    {
+      "id": "Untitled",
+      "file": "raw/Untitled.mp4",
+      "duration": 48.07,
+      "keeps": [
+        {
+          "s": 0.03,
+          "e": 46.41,
+          "text": "Disini gue ada uang 500 juta ... See you di konten.com",
+          "gap": { "d": 0.0, "t": "edge" }
+        }
+      ],
+      "cuts": [],
+      "fluff_suggestions": [
+        {
+          "s": 39.2,
+          "e": 44.6,
+          "text": "cek link di video gue untuk dapetin total hadiah, ya total reward yang gue akan bagiin 500 juta rupiah",
+          "crit": "restated-idea",
+          "note": "Same idea stated 3x (total hadiah = total reward = 500 juta). The 500jt was already established at 0.0s and again at 30.6s. Could be trimmed to just the closing CTA — e.g. 'cek link di video gue, see you di konten.com'. Marked suggested only — does not affect render.",
+          "status": "suggested"
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "tight": {
+      "internal_gap": 0.4,
+      "min_tail": 0.14,
+      "max_tail": 0.4,
+      "head": 0.11,
+      "soft_gap": 1.2,
+      "soft_max_tail": 0.6,
+      "soft_margin": 3.0
+    },
+    "natural": {
+      "internal_gap": 0.4,
+      "min_tail": 0.26,
+      "max_tail": 0.45,
+      "head": 0.19,
+      "soft_gap": 1.2,
+      "soft_max_tail": 0.6,
+      "soft_margin": 3.0
+    }
+  },
+  "flags": [
+    {
+      "id": 1,
+      "clip": "Untitled",
+      "at": "00:39",
+      "issue": "Triple-restated CTA ('total hadiah' / 'total reward' / '500 juta'). Consider trimming to one mention for punchier close.",
+      "default": "keep all (user can drop in editor)"
+    },
+    {
+      "id": 2,
+      "clip": "Untitled",
+      "at": "00:24",
+      "issue": "1.7s pause between 'pencet sesuatu gitu' and 'Ini udah gak perlu lagi' — feels natural, left in.",
+      "default": "keep as-is"
+    }
+  ]
+}

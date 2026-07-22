@@ -1,0 +1,35 @@
+{
+  "master": "videos/video-2/output/preview-natural-8s.mp4",
+  "master_fps": 24,
+  "remotion_out": "remotion/out",
+  "shots": [
+    {
+      "id": "SpeedText",
+      "type": "cutaway",
+      "master_in_s": 0.50,
+      "master_out_s": 2.50,
+      "cue": "beberapa detik (counter 0->5)"
+    },
+    {
+      "id": "SensoryPop",
+      "type": "cutaway",
+      "master_in_s": 3.50,
+      "master_out_s": 5.50,
+      "cue": "enak banget (two-word reveal + check)"
+    },
+    {
+      "id": "ProductCTA",
+      "type": "cutaway",
+      "master_in_s": 5.80,
+      "master_out_s": 7.80,
+      "cue": "blender portable ini (product call-out + CTA)"
+    }
+  ],
+  "preview": {
+    "end_s": 8.0,
+    "out": "videos/video-2/output/video-2-preview.mp4",
+    "width": 848,
+    "height": 478,
+    "fps": 24
+  }
+}

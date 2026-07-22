@@ -1,0 +1,1082 @@
+{
+ "id": "963d5557-6c0d-4d50-934e-250ac8a902ec",
+ "language_model": "assemblyai_default",
+ "acoustic_model": "assemblyai_default",
+ "language_code": "id",
+ "speech_understanding": null,
+ "translated_texts": null,
+ "status": "completed",
+ "audio_url": "https://cdn.assemblyai.com/upload/a436694533d5d3c09f8cb5d225ac19ea8ce891b3574dfcff37d22a51aac1d08b/45d37f0a-8520-4746-96f6-7a1fc27c02ff",
+ "text": "Disini gue ada uang 500 juta yang akan gue bagiin ke Klipper-Klipper yang ada di Indonesia. Jadi pastiin nonton video ini. Jadi kalian bisa ke website baru, namanya itu konten.com. Konten.com ini platform untuk kalian itu Klipper cari cuan. Kita udah buatin ekosistemnya full, ini bisa langsung di-autoconnect-in ke akun kalian. Jadi lo gak perlu pake form, repot-repot, submit, pencet sesuatu gitu. Ini udah gak perlu lagi di konten.com. Ini gue udah total buka budget sebesar 500 juta rupiah, jadi lo bisa langsung cek Misalnya di konten.com, ekselianto indriaputra ini, ya lo bisa dibayar 5.000 rupiah per 1.000 views yang lo hasilkan Jadi lo tinggal klik aja, terus lo tinggal login, sign up, ya Intinya kalo konten.com atau enggak, cek link di video gue untuk dapetin total hadiah, ya total reward yang gue akan bagiin 500 juta rupiah See you di konten.com",
+ "words": [
+  {
+   "text": "Disini",
+   "start": 31,
+   "end": 1151,
+   "confidence": 0.701416,
+   "speaker": null
+  },
+  {
+   "text": "gue",
+   "start": 1151,
+   "end": 1291,
+   "confidence": 0.38549805,
+   "speaker": null
+  },
+  {
+   "text": "ada",
+   "start": 1291,
+   "end": 1451,
+   "confidence": 0.7675781,
+   "speaker": null
+  },
+  {
+   "text": "uang",
+   "start": 1451,
+   "end": 1751,
+   "confidence": 0.92456055,
+   "speaker": null
+  },
+  {
+   "text": "500",
+   "start": 1751,
+   "end": 2291,
+   "confidence": 0.7651367,
+   "speaker": null
+  },
+  {
+   "text": "juta",
+   "start": 2291,
+   "end": 2711,
+   "confidence": 0.8835449,
+   "speaker": null
+  },
+  {
+   "text": "yang",
+   "start": 2711,
+   "end": 3051,
+   "confidence": 0.5913086,
+   "speaker": null
+  },
+  {
+   "text": "akan",
+   "start": 3051,
+   "end": 3331,
+   "confidence": 0.7011719,
+   "speaker": null
+  },
+  {
+   "text": "gue",
+   "start": 3331,
+   "end": 3511,
+   "confidence": 0.8515625,
+   "speaker": null
+  },
+  {
+   "text": "bagiin",
+   "start": 3511,
+   "end": 3811,
+   "confidence": 0.8288574,
+   "speaker": null
+  },
+  {
+   "text": "ke",
+   "start": 3811,
+   "end": 3991,
+   "confidence": 0.9033203,
+   "speaker": null
+  },
+  {
+   "text": "Klipper-Klipper",
+   "start": 3991,
+   "end": 4711,
+   "confidence": 0.726,
+   "speaker": null
+  },
+  {
+   "text": "yang",
+   "start": 4711,
+   "end": 4891,
+   "confidence": 0.8300781,
+   "speaker": null
+  },
+  {
+   "text": "ada",
+   "start": 4891,
+   "end": 5111,
+   "confidence": 0.80126953,
+   "speaker": null
+  },
+  {
+   "text": "di",
+   "start": 5111,
+   "end": 5291,
+   "confidence": 0.9223633,
+   "speaker": null
+  },
+  {
+   "text": "Indonesia.",
+   "start": 5291,
+   "end": 5711,
+   "confidence": 0.552,
+   "speaker": null
+  },
+  {
+   "text": "Jadi",
+   "start": 5971,
+   "end": 6091,
+   "confidence": 0.8779297,
+   "speaker": null
+  },
+  {
+   "text": "pastiin",
+   "start": 6091,
+   "end": 6571,
+   "confidence": 0.7200928,
+   "speaker": null
+  },
+  {
+   "text": "nonton",
+   "start": 6571,
+   "end": 6831,
+   "confidence": 0.85253906,
+   "speaker": null
+  },
+  {
+   "text": "video",
+   "start": 6831,
+   "end": 7091,
+   "confidence": 0.74658203,
+   "speaker": null
+  },
+  {
+   "text": "ini.",
+   "start": 7091,
+   "end": 7311,
+   "confidence": 0.822,
+   "speaker": null
+  },
+  {
+   "text": "Jadi",
+   "start": 7731,
+   "end": 8031,
+   "confidence": 0.8828125,
+   "speaker": null
+  },
+  {
+   "text": "kalian",
+   "start": 8031,
+   "end": 8171,
+   "confidence": 0.7553711,
+   "speaker": null
+  },
+  {
+   "text": "bisa",
+   "start": 8171,
+   "end": 8331,
+   "confidence": 0.8232422,
+   "speaker": null
+  },
+  {
+   "text": "ke",
+   "start": 8331,
+   "end": 8571,
+   "confidence": 0.84472656,
+   "speaker": null
+  },
+  {
+   "text": "website",
+   "start": 8571,
+   "end": 8971,
+   "confidence": 0.7753906,
+   "speaker": null
+  },
+  {
+   "text": "baru,",
+   "start": 8971,
+   "end": 9291,
+   "confidence": 0.57,
+   "speaker": null
+  },
+  {
+   "text": "namanya",
+   "start": 9491,
+   "end": 9711,
+   "confidence": 0.65893555,
+   "speaker": null
+  },
+  {
+   "text": "itu",
+   "start": 9711,
+   "end": 9891,
+   "confidence": 0.55029297,
+   "speaker": null
+  },
+  {
+   "text": "konten.com.",
+   "start": 9891,
+   "end": 10611,
+   "confidence": 0.722,
+   "speaker": null
+  },
+  {
+   "text": "Konten.com",
+   "start": 10731,
+   "end": 11211,
+   "confidence": 0.945,
+   "speaker": null
+  },
+  {
+   "text": "ini",
+   "start": 11211,
+   "end": 11371,
+   "confidence": 0.7348633,
+   "speaker": null
+  },
+  {
+   "text": "platform",
+   "start": 11371,
+   "end": 11771,
+   "confidence": 0.6713867,
+   "speaker": null
+  },
+  {
+   "text": "untuk",
+   "start": 11771,
+   "end": 12131,
+   "confidence": 0.77197266,
+   "speaker": null
+  },
+  {
+   "text": "kalian",
+   "start": 12131,
+   "end": 12351,
+   "confidence": 0.90283203,
+   "speaker": null
+  },
+  {
+   "text": "itu",
+   "start": 12351,
+   "end": 12511,
+   "confidence": 0.40356445,
+   "speaker": null
+  },
+  {
+   "text": "Klipper",
+   "start": 12511,
+   "end": 12911,
+   "confidence": 0.78068036,
+   "speaker": null
+  },
+  {
+   "text": "cari",
+   "start": 12911,
+   "end": 13251,
+   "confidence": 0.86157227,
+   "speaker": null
+  },
+  {
+   "text": "cuan.",
+   "start": 13251,
+   "end": 13491,
+   "confidence": 0.879,
+   "speaker": null
+  },
+  {
+   "text": "Kita",
+   "start": 13731,
+   "end": 13971,
+   "confidence": 0.7548828,
+   "speaker": null
+  },
+  {
+   "text": "udah",
+   "start": 13971,
+   "end": 14131,
+   "confidence": 0.6254883,
+   "speaker": null
+  },
+  {
+   "text": "buatin",
+   "start": 14131,
+   "end": 14471,
+   "confidence": 0.9243164,
+   "speaker": null
+  },
+  {
+   "text": "ekosistemnya",
+   "start": 14471,
+   "end": 15211,
+   "confidence": 0.8769531,
+   "speaker": null
+  },
+  {
+   "text": "full,",
+   "start": 15211,
+   "end": 15531,
+   "confidence": 0.748,
+   "speaker": null
+  },
+  {
+   "text": "ini",
+   "start": 15911,
+   "end": 16031,
+   "confidence": 0.8515625,
+   "speaker": null
+  },
+  {
+   "text": "bisa",
+   "start": 16031,
+   "end": 16231,
+   "confidence": 0.9213867,
+   "speaker": null
+  },
+  {
+   "text": "langsung",
+   "start": 16231,
+   "end": 16471,
+   "confidence": 0.9189453,
+   "speaker": null
+  },
+  {
+   "text": "di-autoconnect-in",
+   "start": 16471,
+   "end": 17591,
+   "confidence": 0.778,
+   "speaker": null
+  },
+  {
+   "text": "ke",
+   "start": 17591,
+   "end": 18111,
+   "confidence": 0.8203125,
+   "speaker": null
+  },
+  {
+   "text": "akun",
+   "start": 18111,
+   "end": 18671,
+   "confidence": 0.9020996,
+   "speaker": null
+  },
+  {
+   "text": "kalian.",
+   "start": 18671,
+   "end": 18991,
+   "confidence": 0.875,
+   "speaker": null
+  },
+  {
+   "text": "Jadi",
+   "start": 19311,
+   "end": 19551,
+   "confidence": 0.93115234,
+   "speaker": null
+  },
+  {
+   "text": "lo",
+   "start": 19551,
+   "end": 19731,
+   "confidence": 0.29785156,
+   "speaker": null
+  },
+  {
+   "text": "gak",
+   "start": 19731,
+   "end": 19851,
+   "confidence": 0.3100586,
+   "speaker": null
+  },
+  {
+   "text": "perlu",
+   "start": 19851,
+   "end": 20111,
+   "confidence": 0.75146484,
+   "speaker": null
+  },
+  {
+   "text": "pake",
+   "start": 20111,
+   "end": 20591,
+   "confidence": 0.69677734,
+   "speaker": null
+  },
+  {
+   "text": "form,",
+   "start": 20591,
+   "end": 20931,
+   "confidence": 0.704,
+   "speaker": null
+  },
+  {
+   "text": "repot-repot,",
+   "start": 21071,
+   "end": 21511,
+   "confidence": 0.865,
+   "speaker": null
+  },
+  {
+   "text": "submit,",
+   "start": 21611,
+   "end": 21911,
+   "confidence": 0.725,
+   "speaker": null
+  },
+  {
+   "text": "pencet",
+   "start": 22011,
+   "end": 22231,
+   "confidence": 0.8717448,
+   "speaker": null
+  },
+  {
+   "text": "sesuatu",
+   "start": 22231,
+   "end": 22571,
+   "confidence": 0.8572591,
+   "speaker": null
+  },
+  {
+   "text": "gitu.",
+   "start": 22571,
+   "end": 22751,
+   "confidence": 0.557,
+   "speaker": null
+  },
+  {
+   "text": "Ini",
+   "start": 22851,
+   "end": 22951,
+   "confidence": 0.83496094,
+   "speaker": null
+  },
+  {
+   "text": "udah",
+   "start": 22951,
+   "end": 23251,
+   "confidence": 0.75097656,
+   "speaker": null
+  },
+  {
+   "text": "gak",
+   "start": 23251,
+   "end": 23391,
+   "confidence": 0.734375,
+   "speaker": null
+  },
+  {
+   "text": "perlu",
+   "start": 23391,
+   "end": 23551,
+   "confidence": 0.6591797,
+   "speaker": null
+  },
+  {
+   "text": "lagi",
+   "start": 23551,
+   "end": 23731,
+   "confidence": 0.7426758,
+   "speaker": null
+  },
+  {
+   "text": "di",
+   "start": 23731,
+   "end": 23871,
+   "confidence": 0.8701172,
+   "speaker": null
+  },
+  {
+   "text": "konten.com.",
+   "start": 23871,
+   "end": 24431,
+   "confidence": 0.956,
+   "speaker": null
+  },
+  {
+   "text": "Ini",
+   "start": 24770,
+   "end": 24930,
+   "confidence": 0.42260742,
+   "speaker": null
+  },
+  {
+   "text": "gue",
+   "start": 24930,
+   "end": 25050,
+   "confidence": 0.5571289,
+   "speaker": null
+  },
+  {
+   "text": "udah",
+   "start": 25050,
+   "end": 25190,
+   "confidence": 0.4633789,
+   "speaker": null
+  },
+  {
+   "text": "total",
+   "start": 25190,
+   "end": 25530,
+   "confidence": 0.12240855,
+   "speaker": null
+  },
+  {
+   "text": "buka",
+   "start": 25530,
+   "end": 25850,
+   "confidence": 0.8161621,
+   "speaker": null
+  },
+  {
+   "text": "budget",
+   "start": 25850,
+   "end": 26190,
+   "confidence": 0.6611328,
+   "speaker": null
+  },
+  {
+   "text": "sebesar",
+   "start": 26190,
+   "end": 26610,
+   "confidence": 0.89469403,
+   "speaker": null
+  },
+  {
+   "text": "500",
+   "start": 26610,
+   "end": 27010,
+   "confidence": 0.6904297,
+   "speaker": null
+  },
+  {
+   "text": "juta",
+   "start": 27010,
+   "end": 27290,
+   "confidence": 0.921875,
+   "speaker": null
+  },
+  {
+   "text": "rupiah,",
+   "start": 27290,
+   "end": 27570,
+   "confidence": 0.571,
+   "speaker": null
+  },
+  {
+   "text": "jadi",
+   "start": 27770,
+   "end": 27870,
+   "confidence": 0.87597656,
+   "speaker": null
+  },
+  {
+   "text": "lo",
+   "start": 27870,
+   "end": 27990,
+   "confidence": 0.7558594,
+   "speaker": null
+  },
+  {
+   "text": "bisa",
+   "start": 27990,
+   "end": 28070,
+   "confidence": 0.7910156,
+   "speaker": null
+  },
+  {
+   "text": "langsung",
+   "start": 28070,
+   "end": 28270,
+   "confidence": 0.9211426,
+   "speaker": null
+  },
+  {
+   "text": "cek",
+   "start": 28270,
+   "end": 28530,
+   "confidence": 0.8378906,
+   "speaker": null
+  },
+  {
+   "text": "Misalnya",
+   "start": 28530,
+   "end": 29190,
+   "confidence": 0.6854248,
+   "speaker": null
+  },
+  {
+   "text": "di",
+   "start": 29190,
+   "end": 29330,
+   "confidence": 0.8256836,
+   "speaker": null
+  },
+  {
+   "text": "konten.com,",
+   "start": 29330,
+   "end": 29950,
+   "confidence": 0.64,
+   "speaker": null
+  },
+  {
+   "text": "ekselianto",
+   "start": 30050,
+   "end": 30510,
+   "confidence": 0.24231148,
+   "speaker": null
+  },
+  {
+   "text": "indriaputra",
+   "start": 30510,
+   "end": 30910,
+   "confidence": 0.6446289,
+   "speaker": null
+  },
+  {
+   "text": "ini,",
+   "start": 30910,
+   "end": 31110,
+   "confidence": 0.608,
+   "speaker": null
+  },
+  {
+   "text": "ya",
+   "start": 31250,
+   "end": 31370,
+   "confidence": 0.33764648,
+   "speaker": null
+  },
+  {
+   "text": "lo",
+   "start": 31370,
+   "end": 31510,
+   "confidence": 0.80029297,
+   "speaker": null
+  },
+  {
+   "text": "bisa",
+   "start": 31510,
+   "end": 31730,
+   "confidence": 0.80615234,
+   "speaker": null
+  },
+  {
+   "text": "dibayar",
+   "start": 31730,
+   "end": 32090,
+   "confidence": 0.9347331,
+   "speaker": null
+  },
+  {
+   "text": "5.000",
+   "start": 32090,
+   "end": 32810,
+   "confidence": 0.537,
+   "speaker": null
+  },
+  {
+   "text": "rupiah",
+   "start": 32810,
+   "end": 33090,
+   "confidence": 0.8499349,
+   "speaker": null
+  },
+  {
+   "text": "per",
+   "start": 33090,
+   "end": 33310,
+   "confidence": 0.62353516,
+   "speaker": null
+  },
+  {
+   "text": "1.000",
+   "start": 33310,
+   "end": 33610,
+   "confidence": 0.912,
+   "speaker": null
+  },
+  {
+   "text": "views",
+   "start": 33610,
+   "end": 33850,
+   "confidence": 0.69384766,
+   "speaker": null
+  },
+  {
+   "text": "yang",
+   "start": 33850,
+   "end": 34010,
+   "confidence": 0.8598633,
+   "speaker": null
+  },
+  {
+   "text": "lo",
+   "start": 34010,
+   "end": 34190,
+   "confidence": 0.93652344,
+   "speaker": null
+  },
+  {
+   "text": "hasilkan",
+   "start": 34190,
+   "end": 34730,
+   "confidence": 0.9042969,
+   "speaker": null
+  },
+  {
+   "text": "Jadi",
+   "start": 34730,
+   "end": 35110,
+   "confidence": 0.7373047,
+   "speaker": null
+  },
+  {
+   "text": "lo",
+   "start": 35110,
+   "end": 35210,
+   "confidence": 0.8544922,
+   "speaker": null
+  },
+  {
+   "text": "tinggal",
+   "start": 35210,
+   "end": 35350,
+   "confidence": 0.4147854,
+   "speaker": null
+  },
+  {
+   "text": "klik",
+   "start": 35350,
+   "end": 35570,
+   "confidence": 0.88305664,
+   "speaker": null
+  },
+  {
+   "text": "aja,",
+   "start": 35570,
+   "end": 35850,
+   "confidence": 0.812,
+   "speaker": null
+  },
+  {
+   "text": "terus",
+   "start": 36230,
+   "end": 36370,
+   "confidence": 0.41687265,
+   "speaker": null
+  },
+  {
+   "text": "lo",
+   "start": 36370,
+   "end": 36450,
+   "confidence": 0.35107422,
+   "speaker": null
+  },
+  {
+   "text": "tinggal",
+   "start": 36450,
+   "end": 36770,
+   "confidence": 0.40879345,
+   "speaker": null
+  },
+  {
+   "text": "login,",
+   "start": 36770,
+   "end": 37210,
+   "confidence": 0.781,
+   "speaker": null
+  },
+  {
+   "text": "sign",
+   "start": 37350,
+   "end": 37470,
+   "confidence": 0.8754883,
+   "speaker": null
+  },
+  {
+   "text": "up,",
+   "start": 37470,
+   "end": 37670,
+   "confidence": 0.557,
+   "speaker": null
+  },
+  {
+   "text": "ya",
+   "start": 37750,
+   "end": 37910,
+   "confidence": 0.7089844,
+   "speaker": null
+  },
+  {
+   "text": "Intinya",
+   "start": 37910,
+   "end": 38270,
+   "confidence": 0.80566406,
+   "speaker": null
+  },
+  {
+   "text": "kalo",
+   "start": 38270,
+   "end": 38510,
+   "confidence": 0.2232666,
+   "speaker": null
+  },
+  {
+   "text": "konten.com",
+   "start": 38510,
+   "end": 39270,
+   "confidence": 0.948,
+   "speaker": null
+  },
+  {
+   "text": "atau",
+   "start": 39270,
+   "end": 39470,
+   "confidence": 0.60302734,
+   "speaker": null
+  },
+  {
+   "text": "enggak,",
+   "start": 39470,
+   "end": 39670,
+   "confidence": 0.553,
+   "speaker": null
+  },
+  {
+   "text": "cek",
+   "start": 39750,
+   "end": 39970,
+   "confidence": 0.8925781,
+   "speaker": null
+  },
+  {
+   "text": "link",
+   "start": 39970,
+   "end": 40330,
+   "confidence": 0.84375,
+   "speaker": null
+  },
+  {
+   "text": "di",
+   "start": 40330,
+   "end": 40530,
+   "confidence": 0.77783203,
+   "speaker": null
+  },
+  {
+   "text": "video",
+   "start": 40530,
+   "end": 40690,
+   "confidence": 0.13085938,
+   "speaker": null
+  },
+  {
+   "text": "gue",
+   "start": 40690,
+   "end": 40830,
+   "confidence": 0.4399414,
+   "speaker": null
+  },
+  {
+   "text": "untuk",
+   "start": 40830,
+   "end": 41050,
+   "confidence": 0.65771484,
+   "speaker": null
+  },
+  {
+   "text": "dapetin",
+   "start": 41050,
+   "end": 41470,
+   "confidence": 0.87060547,
+   "speaker": null
+  },
+  {
+   "text": "total",
+   "start": 41470,
+   "end": 42070,
+   "confidence": 0.18584697,
+   "speaker": null
+  },
+  {
+   "text": "hadiah,",
+   "start": 42070,
+   "end": 42450,
+   "confidence": 0.645,
+   "speaker": null
+  },
+  {
+   "text": "ya",
+   "start": 42570,
+   "end": 42730,
+   "confidence": 0.6118164,
+   "speaker": null
+  },
+  {
+   "text": "total",
+   "start": 42730,
+   "end": 43070,
+   "confidence": 0.28689322,
+   "speaker": null
+  },
+  {
+   "text": "reward",
+   "start": 43070,
+   "end": 43370,
+   "confidence": 0.8989258,
+   "speaker": null
+  },
+  {
+   "text": "yang",
+   "start": 43370,
+   "end": 43510,
+   "confidence": 0.82470703,
+   "speaker": null
+  },
+  {
+   "text": "gue",
+   "start": 43510,
+   "end": 43670,
+   "confidence": 0.86376953,
+   "speaker": null
+  },
+  {
+   "text": "akan",
+   "start": 43670,
+   "end": 43870,
+   "confidence": 0.59814453,
+   "speaker": null
+  },
+  {
+   "text": "bagiin",
+   "start": 43870,
+   "end": 44090,
+   "confidence": 0.8515625,
+   "speaker": null
+  },
+  {
+   "text": "500",
+   "start": 44090,
+   "end": 44430,
+   "confidence": 0.6640625,
+   "speaker": null
+  },
+  {
+   "text": "juta",
+   "start": 44430,
+   "end": 44950,
+   "confidence": 0.9501953,
+   "speaker": null
+  },
+  {
+   "text": "rupiah",
+   "start": 44950,
+   "end": 45250,
+   "confidence": 0.92317706,
+   "speaker": null
+  },
+  {
+   "text": "See",
+   "start": 45250,
+   "end": 45670,
+   "confidence": 0.6308594,
+   "speaker": null
+  },
+  {
+   "text": "you",
+   "start": 45670,
+   "end": 45770,
+   "confidence": 0.88183594,
+   "speaker": null
+  },
+  {
+   "text": "di",
+   "start": 45770,
+   "end": 45890,
+   "confidence": 0.9067383,
+   "speaker": null
+  },
+  {
+   "text": "konten.com",
+   "start": 45890,
+   "end": 46410,
+   "confidence": 0.952,
+   "speaker": null
+  }
+ ],
+ "utterances": null,
+ "confidence": 0.7265366,
+ "audio_duration": 49,
+ "punctuate": true,
+ "format_text": true,
+ "webhook_url": null,
+ "webhook_status_code": null,
+ "webhook_auth": false,
+ "webhook_auth_header_name": null,
+ "speed_boost": false,
+ "auto_highlights_result": null,
+ "auto_highlights": false,
+ "audio_start_from": null,
+ "audio_end_at": null,
+ "word_boost": [],
+ "boost_param": null,
+ "prompt": "Verbatim transcription of a solo YouTube tutorial recording with multiple takes. Transcribe exactly as spoken: keep false starts, repeated words, self-corrections, and filler words (um, uh) \u2014 do not clean them up.",
+ "keyterms_prompt": [],
+ "filter_profanity": false,
+ "redact_pii": false,
+ "redact_pii_audio": false,
+ "redact_pii_audio_quality": null,
+ "redact_pii_audio_options": null,
+ "redact_pii_policies": null,
+ "redact_pii_sub": null,
+ "redact_static_entities": null,
+ "speaker_labels": false,
+ "speaker_options": null,
+ "content_safety": false,
+ "iab_categories": false,
+ "content_safety_labels": {
+  "status": "unavailable",
+  "results": [],
+  "summary": {}
+ },
+ "iab_categories_result": {
+  "status": "unavailable",
+  "results": [],
+  "summary": {}
+ },
+ "language_detection": true,
+ "language_detection_options": null,
+ "language_detection_results": null,
+ "language_confidence_threshold": null,
+ "language_confidence": 0.9863,
+ "custom_spelling": null,
+ "throttled": false,
+ "auto_chapters": false,
+ "summarization": false,
+ "summary_type": null,
+ "summary_model": null,
+ "custom_topics": false,
+ "topics": [],
+ "speech_threshold": null,
+ "speech_model": null,
+ "speech_models": [
+  "universal-3-5-pro",
+  "universal-2"
+ ],
+ "speech_model_used": "universal-2",
+ "temperature": null,
+ "remove_audio_tags": "all",
+ "chapters": null,
+ "disfluencies": true,
+ "entity_detection": false,
+ "sentiment_analysis": false,
+ "sentiment_analysis_results": null,
+ "entities": null,
+ "speakers_expected": null,
+ "summary": null,
+ "custom_topics_results": null,
+ "is_deleted": null,
+ "multichannel": null,
+ "project_id": 1929660,
+ "token_id": 1960073
+}

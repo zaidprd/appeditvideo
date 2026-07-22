@@ -1,0 +1,207 @@
+{
+ "id": "8be48b83-d54d-46e0-8a68-a6ac33b5da3e",
+ "language_model": "assemblyai_default",
+ "acoustic_model": "assemblyai_default",
+ "language_code": "id",
+ "speech_understanding": null,
+ "translated_texts": null,
+ "status": "completed",
+ "audio_url": "https://cdn.assemblyai.com/upload/5f800124aa884f142b8f64ab238b0d90fe29f75c8966e9bae7cd84b6837490f4/0d630bf5-5187-419f-9b46-3c9578cd0056",
+ "text": "Cuma butuh beberapa detik aja, lihat halusnya. Dan rasanya enak banget. Kalian harus coba blender portable ini.",
+ "words": [
+  {
+   "text": "Cuma",
+   "start": 31,
+   "end": 271,
+   "confidence": 0.69506836,
+   "speaker": null
+  },
+  {
+   "text": "butuh",
+   "start": 271,
+   "end": 531,
+   "confidence": 0.9255371,
+   "speaker": null
+  },
+  {
+   "text": "beberapa",
+   "start": 531,
+   "end": 911,
+   "confidence": 0.9379883,
+   "speaker": null
+  },
+  {
+   "text": "detik",
+   "start": 911,
+   "end": 1191,
+   "confidence": 0.9404297,
+   "speaker": null
+  },
+  {
+   "text": "aja,",
+   "start": 1191,
+   "end": 1531,
+   "confidence": 0.553,
+   "speaker": null
+  },
+  {
+   "text": "lihat",
+   "start": 1911,
+   "end": 2191,
+   "confidence": 0.51660156,
+   "speaker": null
+  },
+  {
+   "text": "halusnya.",
+   "start": 2191,
+   "end": 3051,
+   "confidence": 0.638,
+   "speaker": null
+  },
+  {
+   "text": "Dan",
+   "start": 3831,
+   "end": 4091,
+   "confidence": 0.8984375,
+   "speaker": null
+  },
+  {
+   "text": "rasanya",
+   "start": 4091,
+   "end": 4571,
+   "confidence": 0.9157715,
+   "speaker": null
+  },
+  {
+   "text": "enak",
+   "start": 4571,
+   "end": 4971,
+   "confidence": 0.9206543,
+   "speaker": null
+  },
+  {
+   "text": "banget.",
+   "start": 4971,
+   "end": 5371,
+   "confidence": 0.612,
+   "speaker": null
+  },
+  {
+   "text": "Kalian",
+   "start": 5771,
+   "end": 6051,
+   "confidence": 0.8898926,
+   "speaker": null
+  },
+  {
+   "text": "harus",
+   "start": 6051,
+   "end": 6271,
+   "confidence": 0.89941406,
+   "speaker": null
+  },
+  {
+   "text": "coba",
+   "start": 6271,
+   "end": 6571,
+   "confidence": 0.8503418,
+   "speaker": null
+  },
+  {
+   "text": "blender",
+   "start": 6571,
+   "end": 6931,
+   "confidence": 0.6816406,
+   "speaker": null
+  },
+  {
+   "text": "portable",
+   "start": 6931,
+   "end": 7311,
+   "confidence": 0.82373047,
+   "speaker": null
+  },
+  {
+   "text": "ini.",
+   "start": 7311,
+   "end": 7591,
+   "confidence": 0.793,
+   "speaker": null
+  }
+ ],
+ "utterances": null,
+ "confidence": 0.7936181,
+ "audio_duration": 8,
+ "punctuate": true,
+ "format_text": true,
+ "webhook_url": null,
+ "webhook_status_code": null,
+ "webhook_auth": false,
+ "webhook_auth_header_name": null,
+ "speed_boost": false,
+ "auto_highlights_result": null,
+ "auto_highlights": false,
+ "audio_start_from": null,
+ "audio_end_at": null,
+ "word_boost": [],
+ "boost_param": null,
+ "prompt": "Verbatim transcription of a solo YouTube tutorial recording with multiple takes. Transcribe exactly as spoken: keep false starts, repeated words, self-corrections, and filler words (um, uh) \u2014 do not clean them up.",
+ "keyterms_prompt": [],
+ "filter_profanity": false,
+ "redact_pii": false,
+ "redact_pii_audio": false,
+ "redact_pii_audio_quality": null,
+ "redact_pii_audio_options": null,
+ "redact_pii_policies": null,
+ "redact_pii_sub": null,
+ "redact_static_entities": null,
+ "speaker_labels": false,
+ "speaker_options": null,
+ "content_safety": false,
+ "iab_categories": false,
+ "content_safety_labels": {
+  "status": "unavailable",
+  "results": [],
+  "summary": {}
+ },
+ "iab_categories_result": {
+  "status": "unavailable",
+  "results": [],
+  "summary": {}
+ },
+ "language_detection": true,
+ "language_detection_options": null,
+ "language_detection_results": null,
+ "language_confidence_threshold": null,
+ "language_confidence": 0.9978,
+ "custom_spelling": null,
+ "throttled": false,
+ "auto_chapters": false,
+ "summarization": false,
+ "summary_type": null,
+ "summary_model": null,
+ "custom_topics": false,
+ "topics": [],
+ "speech_threshold": null,
+ "speech_model": null,
+ "speech_models": [
+  "universal-3-5-pro",
+  "universal-2"
+ ],
+ "speech_model_used": "universal-2",
+ "temperature": null,
+ "remove_audio_tags": "all",
+ "chapters": null,
+ "disfluencies": true,
+ "entity_detection": false,
+ "sentiment_analysis": false,
+ "sentiment_analysis_results": null,
+ "entities": null,
+ "speakers_expected": null,
+ "summary": null,
+ "custom_topics_results": null,
+ "is_deleted": null,
+ "multichannel": null,
+ "project_id": 1929660,
+ "token_id": 1960073
+}

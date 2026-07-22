@@ -31,11 +31,12 @@ from cutlib import AudioProbe, active_keeps, load_words, plan_clip
 
 SR = 48000  # audio build sample rate
 
+# CPU encoders (work everywhere). For NVIDIA GPUs, swap libx264 -> h264_nvenc,
+# libx265 -> hevc_nvenc, and add -hwaccel cuda to render_segment.
 ENC = {
-    "preview": ["-vf", "scale=1280:-2,format=yuv420p", "-c:v", "h264_nvenc", "-preset", "p4",
-                "-rc", "vbr", "-cq", "30", "-b:v", "0"],
-    "final": ["-c:v", "hevc_nvenc", "-preset", "p5", "-profile:v", "main10",
-              "-pix_fmt", "p010le", "-rc", "vbr", "-cq", "19", "-b:v", "0"],
+    "preview": ["-vf", "scale=1280:-2,format=yuv420p", "-c:v", "libx264", "-preset", "veryfast",
+                "-crf", "23"],
+    "final": ["-c:v", "libx265", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p"],
 }
 AUDIO_BITRATE = {"preview": "160k", "final": "256k"}
 
@@ -43,7 +44,7 @@ AUDIO_BITRATE = {"preview": "160k", "final": "256k"}
 def render_segment(src: Path, seg: tuple[float, float], out: Path, enc: list[str]) -> None:
     start, end = seg
     dur = end - start
-    cmd = ["ffmpeg", "-y", "-loglevel", "error", "-hwaccel", "cuda",
+    cmd = ["ffmpeg", "-y", "-loglevel", "error",
            "-ss", f"{start:.3f}", "-t", f"{dur:.3f}", "-i", str(src),
            "-map", "0:0", "-an", *enc, str(out)]
     subprocess.run(cmd, check=True)

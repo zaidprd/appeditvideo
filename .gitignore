@@ -48,6 +48,20 @@ media/library/faces/*.webp
 # NOTE: the SFX/music library clips (media/library/sfx/clips, media/library/music/clips)
 # ARE committed — so there is intentionally NO blanket *.mp3 rule here.
 
+# ── PERSONAL NOTES / SCRATCH ANALYSIS ──────────────────────────────────────
+# Local scratch work — not part of the pipeline, kept out of the repo
+CHECKLIST_REKAMAN.md
+analysis-*/
+analysis-secret/
+scratch/
+# Reference video downloaded for analysis (not part of the project)
+*.mp4
+*.MP4
+
+# editor scratch logs
+videos/*/work/editor/server.log
+videos/*/work/editor/*.log
+
 # editor / OS
 .vscode/
 .idea/

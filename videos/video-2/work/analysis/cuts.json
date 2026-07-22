@@ -1,0 +1,57 @@
+{
+  "project": "video-2",
+  "clip_order": ["te2"],
+  "clips": [
+    {
+      "id": "te2",
+      "file": "raw/te2.mp4",
+      "duration": 8.0,
+      "keeps": [
+        {
+          "s": 0.03,
+          "e": 7.59,
+          "text": "Cuma butuh beberapa detik aja, lihat halusnya. Dan rasanya enak banget. Kalian harus coba blender portable ini.",
+          "gap": { "d": 0.0, "t": "edge" }
+        }
+      ],
+      "cuts": [],
+      "fluff_suggestions": []
+    }
+  ],
+  "styles": {
+    "tight": {
+      "internal_gap": 0.3,
+      "min_tail": 0.10,
+      "max_tail": 0.3,
+      "head": 0.08,
+      "soft_gap": 0.8,
+      "soft_max_tail": 0.4,
+      "soft_margin": 3.0
+    },
+    "natural": {
+      "internal_gap": 0.3,
+      "min_tail": 0.20,
+      "max_tail": 0.4,
+      "head": 0.15,
+      "soft_gap": 0.8,
+      "soft_max_tail": 0.5,
+      "soft_margin": 3.0
+    }
+  },
+  "flags": [
+    {
+      "id": 1,
+      "clip": "te2",
+      "at": "00:01",
+      "issue": "Single take, no retakes. The 0.4s pause between 'aja,' (1.53s) and 'lihat' (1.91s) is natural breath, left in.",
+      "default": "keep as-is"
+    },
+    {
+      "id": 2,
+      "clip": "te2",
+      "at": "00:03",
+      "issue": "0.8s pause between 'halusnya.' (3.05s) and 'Dan' (3.83s) is the natural sentence boundary, left in.",
+      "default": "keep as-is"
+    }
+  ]
+}

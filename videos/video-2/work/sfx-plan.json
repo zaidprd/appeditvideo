@@ -1,0 +1,37 @@
+{
+  "_note": "SFX plan for video-2 (blender portable ad, 8s). 3 cues, sparse per brand.md §10 — short-form ads need every SFX to earn its keep. Voice is ~-21 dB RMS; per-cue gain_db keeps SFX under voice. Sidechain duck applied by mix_sfx.py. Cues synced to edited-transcript.json word times AND the visual beat (shot animation frames).",
+  "master": "videos/video-2/output/preview-natural-8s.mp4",
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/video-2/output/video-2-preview-clean-sh.mp4",
+    "out": "videos/video-2/output/video-2-sfx.mp4",
+    "end_s": 8.0,
+    "duck": true
+  },
+  "events": [
+    {
+      "at_s": 0.91,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -4,
+      "shot": "SpeedText",
+      "cue": "on 'detik' (master 0.91s, edited-transcript.json) — count-up lands",
+      "note": "Transition whoosh synced to the count-up finishing (SpeedText shot, 0.50-2.50 master). Sets the punch on the speed claim."
+    },
+    {
+      "at_s": 4.97,
+      "sfx_id": "pop-reveal",
+      "gain_db": -3,
+      "shot": "SensoryPop",
+      "cue": "on 'banget' (master 4.97s, edited-transcript.json) — sensory payoff",
+      "note": "Hero payoff. Pops exactly on the strongest word in the script. Layered over the SensoryPop shot's check mark reveal."
+    },
+    {
+      "at_s": 7.31,
+      "sfx_id": "chime-reward",
+      "gain_db": -5,
+      "shot": "ProductCTA",
+      "cue": "on 'ini' (master 7.31s, edited-transcript.json) — closing CTA reward",
+      "note": "Closing chime. Reward-sound = 'go buy it'. Lands as the ProductCTA pill is fully on screen and the CTA text is readable."
+    }
+  ]
+}

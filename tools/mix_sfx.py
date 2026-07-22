@@ -14,6 +14,7 @@ mix / ducking / loudness normalization is /assemble's job later.
 Usage:
   python tools/mix_sfx.py [video-1/work/sfx-plan.json]
   python tools/mix_sfx.py plan.json --print         # show the resolved cue sheet, no render
+  python tools/mix_sfx.py plan.json --no-sfx        # disable SFX and exit without reading/rendering
   python tools/mix_sfx.py plan.json --no-optional    # drop events marked "optional": true
   python tools/mix_sfx.py plan.json --no-duck --end 60 --out path.mp4
 
@@ -60,6 +61,10 @@ def run(cmd):
 
 def main():
     args = sys.argv[1:]
+    if "--no-sfx" in args:
+        print("SFX disabled (per brand-zaid.md audio policy). Skipping mix.")
+        return
+
     flags = {"print": "--print" in args, "no_optional": "--no-optional" in args}
     duck_override = None
     if "--no-duck" in args:

@@ -1,0 +1,42 @@
+{
+  "master": "videos/video-1/output/preview-natural.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    {
+      "id": "HookNumbers",
+      "type": "cutaway",
+      "master_in_s": 0.30,
+      "master_out_s": 3.60,
+      "cue": "uang 500 juta (count-up to Rp 500.000.000)"
+    },
+    {
+      "id": "PlatformReveal",
+      "type": "cutaway",
+      "master_in_s": 9.20,
+      "master_out_s": 12.20,
+      "cue": "konten.com first mention (browser frame + URL typing + 3 features)"
+    },
+    {
+      "id": "PayoutBreakdown",
+      "type": "cutaway",
+      "master_in_s": 31.20,
+      "master_out_s": 34.60,
+      "cue": "5.000 rupiah per 1.000 views (rate + animated calculator)"
+    },
+    {
+      "id": "OutroCard",
+      "type": "cutaway",
+      "master_in_s": 44.70,
+      "master_out_s": 47.00,
+      "cue": "See you di konten.com (wordmark + CTA pill)"
+    }
+  ],
+  "preview": {
+    "end_s": 47.0,
+    "out": "videos/video-1/output/video-1-preview.mp4",
+    "width": 1280,
+    "height": 2276,
+    "fps": 30
+  }
+}

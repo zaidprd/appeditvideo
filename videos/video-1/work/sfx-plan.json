@@ -1,0 +1,53 @@
+{
+  "_note": "SFX plan for video-1 (konten.com 500jt promo). 5 cues, sparse & function-first per brand.md §10. Cues synced to edited-transcript.json word times AND the visual beat (shot animation frames). Voice is ~-17 LUFS; per-cue gain_db set so SFX stay under voice. Light sidechain duck applied by mix_sfx.py.",
+  "master": "videos/video-1/output/preview-natural.mp4",
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/video-1/output/video-1-preview.mp4",
+    "out": "videos/video-1/output/video-1-sfx.mp4",
+    "end_s": 47.0,
+    "duck": true
+  },
+  "events": [
+    {
+      "at_s": 0.30,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -5,
+      "shot": "HookNumbers",
+      "cue": "cut-in: talking head -> HookNumbers count-up",
+      "note": "transition whoosh at master_in_s of the cutaway. Sets the punch before the number reveals."
+    },
+    {
+      "at_s": 2.30,
+      "sfx_id": "impact-soft",
+      "gain_db": -3,
+      "shot": "HookNumbers",
+      "cue": "on 'juta' (master 2.29s, edited-transcript.json)",
+      "note": "soft impact lands exactly on the payoff word. Layered with the whoosh: whoosh transitions IN, impact punctuates the number."
+    },
+    {
+      "at_s": 10.60,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -8,
+      "shot": "PlatformReveal",
+      "cue": "browser URL bar finishes typing 'konten.com' (shot local f42 / 30fps = 1.4s into a 3.0s shot, master 9.20+1.40=10.60)",
+      "note": "tiny UI tick on the URL 'enter'. Faint by design — the URL typing animation already does the visual work."
+    },
+    {
+      "at_s": 32.10,
+      "sfx_id": "pop-reveal",
+      "gain_db": -4,
+      "shot": "PayoutBreakdown",
+      "cue": "on '5.000' (master 32.09s, edited-transcript.json)",
+      "note": "hero payoff. Pops exactly as the calculator's highlight sweep finishes."
+    },
+    {
+      "at_s": 45.40,
+      "sfx_id": "chime-reward",
+      "gain_db": -5,
+      "shot": "OutroCard",
+      "cue": "on 'See you di konten.com' (master 45.25s + ~0.15s settle)",
+      "note": "closing chime. Reward-sound = 'go claim it'. Lands as the CTA pill nudges with the arrow."
+    }
+  ]
+}

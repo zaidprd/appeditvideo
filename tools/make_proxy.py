@@ -13,10 +13,11 @@ from pathlib import Path
 
 
 def encode_part(src: Path, out: Path) -> None:
+    # CPU encode (libx264) — works on any machine. For NVIDIA GPUs, swap to h264_nvenc.
     subprocess.run(
-        ["ffmpeg", "-y", "-loglevel", "error", "-hwaccel", "cuda", "-i", str(src),
+        ["ffmpeg", "-y", "-loglevel", "error", "-i", str(src),
          "-map", "0:0", "-map", "0:1", "-vf", "scale=1280:-2,format=yuv420p",
-         "-c:v", "h264_nvenc", "-preset", "p4", "-rc", "vbr", "-cq", "29", "-b:v", "0",
+         "-c:v", "libx264", "-preset", "veryfast", "-crf", "23",
          "-c:a", "aac", "-b:a", "160k", str(out)],
         check=True,
     )
